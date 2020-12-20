@@ -38,4 +38,5 @@ end
 # Define your play method below
 def play(board)
   number_of_moves = 0
+  until number 
 end
